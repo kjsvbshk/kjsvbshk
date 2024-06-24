@@ -51,8 +51,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/kjsvbshk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/kjsvbshk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
@@ -62,8 +66,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/kjsvbshk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kjsvbshk&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31p3svvalswbtyzc32mlu7kxye6y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p3svvalswbtyzc32mlu7kxye6y&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
