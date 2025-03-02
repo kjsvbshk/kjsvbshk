@@ -7,7 +7,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjsvbshk&show_icons=true&theme=discord_old_blurple&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kjsvbshk&show_icons=true&theme=discord_old_blurple&count_private=true&hide_border=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=kjsvbshk&theme=discord_old_blurple&hide_border=true&border_radius=5" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjsvbshk&layout=compact&theme=discord_old_blurple&hide_border=true" height="150" />
 </div>
