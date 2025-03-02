@@ -6,10 +6,11 @@
 ---
 
 ## &#x1f4c8; GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjsvbshk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=kjsvbshk&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kjsvbshk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kjsvbshk&show_icons=true&theme=discord_old_blurple&count_private=true&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=kjsvbshk&theme=discord_old_blurple&hide_border=true&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjsvbshk&layout=compact&theme=discord_old_blurple&hide_border=true" height="150" />
+</div>
 
 ---
 ## 📊 Streak
