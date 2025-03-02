@@ -14,6 +14,7 @@
 
 ---
 ## 📊 Streak
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjsvbshk&theme=modern-lilac&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
