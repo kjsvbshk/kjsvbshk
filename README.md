@@ -12,9 +12,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kjsvbshk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true" height="150" alt="languages graph"  />
 
 ---
+## 📊 Streak
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjsvbshk&theme=modern-lilac&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
+
 ---
+
+
 ## &#x1f4aa; Skills
 
 <div align="left">
