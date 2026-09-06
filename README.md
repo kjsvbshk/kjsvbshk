@@ -19,8 +19,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kjsvbshk">GitHub</a>
-  ·
   <a href="https://www.linkedin.com/">LinkedIn</a>
   ·
   <a href="https://discord.com/">Discord</a>
