@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20kjsvbshk%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+<img height="150" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" />
+
 <h3>Software Engineer · Full-Stack & Mobile Developer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=kjsvbshk&color=blueviolet&style=flat" alt="Profile views" />
