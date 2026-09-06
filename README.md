@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-  ·
   <a href="https://github.com/kjsvbshk">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/">LinkedIn</a>
   ·
   <a href="https://discord.com/">Discord</a>
 </p>
@@ -182,7 +182,7 @@ Some of the systems and problems I enjoy working on include:
 
 ## Selected Work
 
-### 🏀 Sports Prediction Platform
+### Sports Prediction Platform
 
 A data-driven platform built around sports statistics, predictive modeling, and model evaluation.
 
@@ -231,7 +231,7 @@ React Application
 
 ---
 
-### 🏪 Neighborhood Store Management Platform
+### Neighborhood Store Management Platform
 
 A transactional web platform designed around the operational needs of neighborhood stores.
 
@@ -369,8 +369,17 @@ That means I'm often interested in questions like:
 Those questions usually lead to better engineering decisions than simply asking which technology to use.
 
 ---
-Now Playing
-<div align="center"> <a href="https://open.spotify.com/user/31p3svvalswbtyzc32mlu7kxye6y"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p3svvalswbtyzc32mlu7kxye6y&count=5&unique=false"/> </a> </div>
+
+## Now Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31p3svvalswbtyzc32mlu7kxye6y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p3svvalswbtyzc32mlu7kxye6y&count=5&unique=false"/>
+  </a>
+</div>
+
+---
+
 ## GitHub
 
 <p align="center">
