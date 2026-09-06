@@ -1,218 +1,392 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20kjsvbshk%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<img height="150" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" />
-
-<h2>Software Engineer</h2>
-
-<p>
-Backend Systems · Databases · Full-Stack Development · Data & ML
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20kjsvbshk&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<a href="https://www.linkedin.com/in/kjsvbshk">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <img height="150" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" />
+</p>
 
-<a href="https://discord.com/users/kjsvbshk">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
-</a>
+<h2 align="center">
+  Software Engineer
+</h2>
 
-</div>
+<p align="center">
+  <b>Backend Systems · Databases · Full-Stack Development · Data & ML</b>
+</p>
 
----
+<p align="center">
+  I build software that turns complex business problems into reliable, maintainable systems.
+</p>
 
-## 👨‍💻 What I Do
-
-I'm a **Software Engineer focused on building reliable backend systems, data-driven applications and maintainable software architectures.**
-
-I enjoy solving problems where **software, databases and data come together** — designing the system behind the interface, modeling the data correctly, automating complex workflows and turning business requirements into software that can actually operate in production.
-
-### I work on problems such as:
-
-* 🏗️ **Designing software systems** — translating requirements into maintainable architectures and well-defined application layers.
-* ⚙️ **Building backend services** — developing APIs, business logic and integrations with Node.js, NestJS and TypeScript.
-* 🗄️ **Designing relational databases** — modeling data, relationships, constraints, queries, views and transactional processes with PostgreSQL.
-* 🔄 **Automating data workflows** — building ingestion, transformation and processing pipelines for operational and analytical data.
-* 📊 **Turning data into useful information** — working with analytical models, Power BI and DAX.
-* 🤖 **Applying Machine Learning** — experimenting with predictive models, evaluation metrics and data-driven decision systems.
-* 🎨 **Building complete products** — connecting backend services, databases and React-based interfaces into cohesive applications.
-* 🐳 **Shipping software** — containerizing and deploying applications with Docker and modern cloud platforms.
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+  ·
+  <a href="https://github.com/kjsvbshk">GitHub</a>
+  ·
+  <a href="https://discord.com/">Discord</a>
+</p>
 
 ---
 
-## 🧠 How I Think About Software
+## About Me
 
-I don't see software as a collection of frameworks.
+I'm a **Software Engineer** interested in the intersection between software architecture, backend engineering, databases, and data-driven applications.
 
-I care about **how the pieces fit together**.
+My approach to software goes beyond making things work. I care about understanding the problem first, designing clear system boundaries, modeling data correctly, and building solutions that can evolve without becoming difficult to maintain.
 
-```text
-                    ┌─────────────────────┐
-                    │      Business       │
-                    │     Requirements    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      Architecture   │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-       ┌────────────┐   ┌────────────┐   ┌────────────┐
-       │  Frontend  │   │   Backend  │   │    Data    │
-       │            │   │            │   │            │
-       │ React      │   │ NestJS     │   │ PostgreSQL │
-       │ Next.js    │   │ Node.js    │   │ Power BI   │
-       │ TypeScript │   │ REST APIs  │   │ ML         │
-       └─────┬──────┘   └─────┬──────┘   └─────┬──────┘
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                    ┌─────────────────────┐
-                    │  Reliable Software  │
-                    └─────────────────────┘
-```
+I enjoy working on problems where **business logic, data, and software engineering meet** — from transactional systems and APIs to analytical workflows and predictive models.
 
-My goal is not simply to make something **work**.
+### What I bring to a project
 
-I try to understand **why it works, how it behaves under change, where it can fail and how it can be improved.**
+* Designing and developing **backend services and APIs**
+* Modeling and optimizing **relational databases**
+* Building **transactional and data-driven systems**
+* Developing **full-stack applications** from backend to user interface
+* Designing **data pipelines and analytical workflows**
+* Applying **machine learning** to prediction and classification problems
+* Automating repetitive processes and development workflows
+* Containerizing, deploying, and maintaining applications
+* Translating business requirements into **technical solutions**
 
 ---
 
-## 🛠️ Core Stack
+## Engineering Focus
 
-### Backend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge\&logo=typeorm\&logoColor=white)
+### Backend Engineering
 
-`REST APIs` · `Business Logic` · `Integrations` · `Authentication` · `Transactions`
+I build services around clear business logic, well-defined APIs, integrations, and reliable application workflows.
 
-### Frontend
+**Focus:**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+* REST APIs
+* Business logic
+* Authentication & authorization
+* Integrations
+* Transactional workflows
+* Service architecture
+* Error handling
+* Automation
 
-`React` · `Next.js` · `TypeScript` · `MUI` · `Redux`
+</td>
 
-### Databases & Data
+<td width="50%" valign="top">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+### Database Engineering
 
-`SQL` · `Data Modeling` · `Normalization` · `Views` · `Materialized Views` · `Stored Procedures` · `ETL`
+I enjoy working close to the data layer and designing relational structures that support both application requirements and long-term maintainability.
+
+**Focus:**
+
+* PostgreSQL
+* Oracle
+* Relational modeling
+* Normalization
+* SQL
+* Functions & procedures
+* Views & materialized views
+* Query optimization
+* Transactions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Data & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+I work with data not only as storage, but as a source for analysis, experimentation, and decision-making.
 
-`Scikit-learn` · `Random Forest` · `XGBoost` · `Bivariate Poisson`
+**Focus:**
 
-`Log Loss` · `Brier Score` · `ROC-AUC` · `ECE`
+* Data pipelines
+* Data preprocessing
+* Predictive modeling
+* Model evaluation
+* Statistical approaches
+* Analytics
+* Visualization
+* Python
 
-### Infrastructure & Tools
+</td>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+<td width="50%" valign="top">
 
-`Docker` · `Git` · `GitHub` · `GitLab` · `Linux` · `Vercel` · `Railway` · `Neon`
+### Software Architecture
 
----
+I care about how the pieces of a system fit together and where responsibilities should live.
 
-## 🚀 Selected Work
+**Focus:**
 
-### 🏀 Sports Prediction & Analytics
+* Separation of concerns
+* System boundaries
+* Maintainability
+* Scalable structures
+* Transactional vs analytical systems
+* API design
+* Deployment workflows
+* Production-oriented development
 
-A full-stack system combining **data ingestion, relational data modeling, predictive modeling and an interactive web application**.
-
-**Focus:** Data Engineering · Machine Learning · Backend · Analytics
-
-* Automated sports data ingestion
-* PostgreSQL data modeling
-* Predictive model experimentation
-* Model evaluation and comparison
-* REST backend services
-* Interactive prediction interface
-
----
-
-### 🏪 Transactional POS Platform
-
-A web-based transactional system designed around the operational needs of **neighborhood businesses**.
-
-**Focus:** Software Architecture · Backend · Database Design · Business Logic
-
-* Relational database architecture
-* Normalized transactional model
-* Business workflows
-* Inventory and sales management
-* Reporting and analytical capabilities
-* Separation between transactional and analytical concerns
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Exploring
+## What I Build
 
-* Software architecture & system design
-* Backend scalability and reliability
+Rather than focusing only on technologies, I like to think in terms of **problems to solve**.
+
+```text
+Business Problem
+       │
+       ▼
+Requirements & Domain
+       │
+       ▼
+System Design
+       │
+       ├───────────────┐
+       ▼               ▼
+   Backend          Database
+       │               │
+       └───────┬───────┘
+               ▼
+        Application Layer
+               │
+        ┌──────┴──────┐
+        ▼             ▼
+    Frontend        Data / ML
+        │             │
+        └──────┬──────┘
+               ▼
+        Deploy & Iterate
+```
+
+Some of the systems and problems I enjoy working on include:
+
+* **Transactional platforms** where data consistency matters
+* **Backend APIs** that connect business processes and applications
+* **Relational data models** designed around real business domains
+* **Reporting and analytical systems** built on operational data
+* **Automation tools** that eliminate repetitive work
+* **Data pipelines** that transform raw information into usable datasets
+* **Predictive applications** where machine learning supports decision-making
+* **Full-stack products** where I can work across the entire development lifecycle
+
+---
+
+## Selected Work
+
+### 🏀 Sports Prediction Platform
+
+A data-driven platform built around sports statistics, predictive modeling, and model evaluation.
+
+**Pipeline:**
+
+```text
+ESPN
+  ↓
+Data Collection
+  ↓
+PostgreSQL
+  ↓
+Data Preparation
+  ↓
+Machine Learning Models
+  ↓
+Prediction & Evaluation
+  ↓
+React Application
+```
+
+**Engineering work:**
+
+* Automated sports data collection
+* Relational database design
+* Data processing and transformation
+* Predictive modeling
+* Model comparison and evaluation
+* Backend/API development
+* React-based prediction interface
+
+**Models explored:**
+
+* Random Forest
+* XGBoost
+* Bivariate Poisson
+
+**Evaluation:**
+
+* Log Loss
+* Brier Score
+* ROC-AUC
+* Expected Calibration Error (ECE)
+
+> The interesting part of the project is not only the model itself, but the complete pipeline connecting **data acquisition, storage, modeling, evaluation, and application delivery**.
+
+---
+
+### 🏪 Neighborhood Store Management Platform
+
+A transactional web platform designed around the operational needs of neighborhood stores.
+
+The system focuses on transforming day-to-day business operations into a structured digital workflow.
+
+**Core areas:**
+
+* Sales
+* Inventory
+* Products
+* Customers
+* Transactions
+* Reporting
+* Business data
+
+**Engineering focus:**
+
+* Relational database modeling
+* Transactional consistency
+* Backend services
+* Business rules
+* API design
+* Separation between operational and analytical concerns
+* Web application architecture
+
+> The goal is not simply to digitize a process, but to build a system where **business operations, data integrity, and future analytics can coexist cleanly**.
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,flask,java" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" />
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,oracle,firebase" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,npm" />
+</p>
+
+### Data & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## How I Think About Software
+
+I tend to approach engineering problems through a few principles:
+
+### 01 — Understand the problem before the implementation
+
+A technically correct solution can still solve the wrong problem.
+
+I prefer understanding the domain, constraints, users, and expected behavior before deciding which technology or architecture to use.
+
+### 02 — Data is part of the architecture
+
+Database design is not an afterthought.
+
+The way data is modeled directly affects application behavior, consistency, performance, reporting, and the ability to evolve the system.
+
+### 03 — Complexity should have a reason
+
+Not every project needs distributed systems, microservices, or complicated abstractions.
+
+I prefer architecture that is **as simple as possible while still satisfying the real requirements**.
+
+### 04 — Build for change
+
+Software rarely remains exactly as it was originally designed.
+
+Clear responsibilities, predictable data flows, and maintainable code make future changes considerably easier.
+
+### 05 — Automate what should not require human attention
+
+If a repetitive task can be reliably automated, it probably should be.
+
+Automation is one of the areas where relatively small engineering investments can produce significant improvements in productivity.
+
+---
+
+## Currently Exploring
+
+I'm continuously expanding my knowledge around:
+
+* Software architecture
+* Backend engineering
+* PostgreSQL and database performance
+* Distributed and scalable systems
 * Data engineering
-* Machine Learning systems
-* Cloud infrastructure
-* Better testing and observability practices
+* Machine learning
+* MLOps
+* Cloud deployment
+* System design
+* Software quality and testing
 
 ---
 
-## 📊 GitHub Stats
+## Beyond the Code
 
-<div align="center">
+I enjoy understanding **how things work underneath the abstraction**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=kjsvbshk&show_icons=true&theme=discord_old_blurple&count_private=true&hide_border=true" height="150" />
+That means I'm often interested in questions like:
 
-<img src="https://streak-stats.demolab.com?user=kjsvbshk&theme=discord_old_blurple&hide_border=true&border_radius=5" height="150" />
+> Why was the system designed this way?
 
-</div>
+> Where should this responsibility live?
 
-<div align="center">
+> What happens when the amount of data grows?
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjsvbshk&layout=compact&theme=discord_old_blurple&hide_border=true" height="150" />
+> What happens when something fails?
 
-</div>
+> Can the process be automated?
 
----
+> Is the database model actually representing the business domain correctly?
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kjsvbshk&theme=discord_old_blurple&no-frame=true&row=1&column=6" />
-
-</div>
+Those questions usually lead to better engineering decisions than simply asking which technology to use.
 
 ---
 
-## 📈 Activity
+## GitHub
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/kjsvbshk">
+    <img src="https://img.shields.io/github/followers/kjsvbshk?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/kjsvbshk?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-informational?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kjsvbshk&theme=modern-lilac&area=true&hide_border=true" height="150" />
-
-</div>
+<p align="center">
+  <i>Building, learning, breaking things, fixing them, and understanding why they broke.</i>
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&width=100%25" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
