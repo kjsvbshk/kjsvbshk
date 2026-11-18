@@ -10,7 +10,9 @@
 
 <p align="center">   <a href="https://linkedin.com/in/irvingriosramirez">LinkedIn</a>   ·   <a href="https://discord.com/users/809136971048943616">Discord</a> </p>
 
-About Me
+---
+
+## About Me
 
 I'm a Software Engineer focused on building business-oriented software solutions, with particular interests in backend engineering, full-stack development, database systems, and data analytics.
 
@@ -18,7 +20,7 @@ I approach software engineering as more than writing code or implementing isolat
 
 I enjoy working across the software development lifecycle, from requirements analysis and system design to implementation, integration, testing, and continuous improvement. My interests lie particularly in the intersection of business logic, software architecture, and data, where technology becomes a tool for solving real operational problems.
 
-My Engineering Approach
+## My Engineering Approach
 
 Full-Stack & Application Development
 
@@ -60,37 +62,43 @@ Continuous Improvement: Analyzing existing solutions, identifying opportunities 
 
 Ultimately, I believe good software engineering is about understanding the problem deeply enough to build the right solution, not simply choosing the right technology.
 
-Tech Stack
+---
 
-Backend
+## Tech Stack
+
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,flask,java" />
 </p>
 
-Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" />
 </p>
 
-Databases & Data
+### Databases & Data
 
-<p>   <img src="https://skillicons.dev/icons?i=postgres,oracle,firebase" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,oracle,firebase" />
+</p>
 
-DevOps & Tools
+### DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,npm" />
 </p>
 
-Data & Machine Learning
+### Data & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-Now Playing
+---
+
+## Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/31p3svvalswbtyzc32mlu7kxye6y">
@@ -98,10 +106,25 @@ Now Playing
   </a>
 </div>
 
-GitHub
+---
 
-<p align="center">   <a href="https://github.com/kjsvbshk">     <img src="https://img.shields.io/github/followers/kjsvbshk?label=Followers&style=for-the-badge&logo=github" />   </a>   <a href="https://github.com/kjsvbshk?tab=repositories">     <img src="https://img.shields.io/badge/Repositories-View%20Projects-informational?style=for-the-badge&logo=github" />   </a> </p>
+## GitHub
 
-<p align="center">   <i>Building, learning, breaking things, fixing them, and understanding why they broke.</i> </p>
+<p align="center">
+  <a href="https://github.com/kjsvbshk">
+    <img src="https://img.shields.io/github/followers/kjsvbshk?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/kjsvbshk?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-informational?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </p>
+<p align="center">
+  <i>Building, learning, breaking things, fixing them, and understanding why they broke.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
